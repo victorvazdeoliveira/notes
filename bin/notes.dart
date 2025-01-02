@@ -4,8 +4,6 @@ void main() {
   List<String> notas = <String>[];
   getComando();
   adicionaNota(notas);
-  adicionaNota(notas);
-  adicionaNota(notas);
   listarNotas(notas);
 }
 
